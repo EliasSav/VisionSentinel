@@ -1,5 +1,5 @@
-VIDEO_SOURCE = r""
-THRESHOLD_ANOMALIE = 0.5 # Procentul de alerta in care intra ai ul
+VIDEO_SOURCE = r"C:\Users\savel\Downloads\insersectioncrash8.mp4"
+THRESHOLD_ANOMALIE = 0.5
 CADRE_TRECUT = 60 # 3 secunde de istoric (la 30fps)
 CADRE_VIITOR = 150  # 3 secunde dupa confirmarea AI-ului
 REZOLUTIE_PROCESARE = (640, 360) 

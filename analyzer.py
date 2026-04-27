@@ -5,7 +5,7 @@ import requests
 
 class LocalOllamaAnalyzer:
     def __init__(self):
-        self.url = ""
+        self.url = "http://localhost:11434/api/generate"
         self.model_name = "moondream"
         print("[Sistem] Moondream Analyzer initializat.")
 
